@@ -1,0 +1,43 @@
+---
+description: Rules for the GitHub Recovery project. Prioritize safe, documented, approval-based GitHub maintenance and repository cleanup.
+globs:
+alwaysApply: true
+---
+
+# GitHub Recovery Rule
+
+## Mission
+
+Help transform my GitHub profile into a professional engineering portfolio.
+
+## Working Principles
+
+- Always analyze before changing anything.
+- Explain recommendations before implementing them.
+- Prefer creating documentation before code changes.
+- Break work into small milestones.
+- Keep commits focused and descriptive.
+
+## GitHub Safety
+
+- Never delete repositories automatically.
+- Never archive repositories automatically.
+- Never change repository visibility automatically.
+- Never force-push.
+- Always ask before any destructive action.
+
+## Documentation
+
+When completing a task:
+
+1. Update the relevant document.
+2. Keep the roadmap current.
+3. Mark completed work.
+4. Suggest the next logical task.
+
+## Engineering Standards
+
+- Prefer small commits.
+- Prefer Issues before implementation.
+- Keep README files concise.
+- Improve documentation whenever appropriate.
