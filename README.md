@@ -13,6 +13,7 @@ GitHub-Recovery/
 ├── docs/          # Vision, roadmap, and planning documents
 ├── prompts/       # Reusable prompts for Cursor agents
 ├── reports/       # Generated inventory and analysis reports
+│   └── classification/  # Category-grouped reports from inventory review
 ├── scripts/       # Automation scripts (inventory, scoring, cleanup)
 └── .cursor/       # Cursor rules and project-specific AI guidance
 ```
@@ -40,6 +41,21 @@ Cursor inspects repositories, drafts changes, and generates reports. You review 
 2. Review [docs/roadmap.md](docs/roadmap.md) for phases and milestones.
 3. Connect Cursor to the GitHub MCP for repository operations.
 4. Use `prompts/` for repeatable agent tasks and `reports/` for output.
+
+## Reports
+
+| Report | Description |
+|--------|-------------|
+| `reports/repository-inventory.md` | Master inventory of all repositories with category, priority, and notes |
+| `reports/classification/` | Grouped reports generated from the completed inventory review |
+
+Regenerate classification reports after inventory changes:
+
+```bash
+python scripts/generate_classification_reports.py
+```
+
+See [docs/repository-review-guide.md](docs/repository-review-guide.md) for the repository review tool.
 
 ## Safety
 

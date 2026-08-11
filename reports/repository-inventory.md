@@ -86,7 +86,7 @@ Generated inventory of all repositories in the Lakhwinderr GitHub account.
 | ReactTailwindBoilerplate | 2024-04-03 | Public | Yes | No | JavaScript |  |  | 0 | 🍴 Fork Cleanup |  |  |
 | Real-Time-Data-React-App | 2023-08-05 | Public | No | No |  | GHW August Data: Realtime Data App |  | 0 | 🔒 Private |  |  |
 | rebus | 2022-10-05 | Public | Yes | No | JavaScript | ≡ƒîƒ ≡ƒæú Take your first steps as an open source contributor | hactoberfest-accepted | 0 | 🍴 Fork Cleanup |  |  |
-| repo-exercise | 2022-12-11 | Private | No | No |  |  |  | 0 |  |  |  |
+| repo-exercise | 2022-12-11 | Private | No | No |  |  |  | 0 | 🗑 Delete | P3 | Git/GitHub learning exercise |
 | saucedemo-manual-testing | 2026-05-03 | Public | No | No |  | Manual Testing for SauceDemo Web Application |  | 0 | ⭐ Showcase | P1 | Needs README; Improve Documentation; demonstrates your software testing skills that you learned from mighty Pavan Sir |
 | Self-Taught-Devs | 2025-07-23 | Public | No | No |  | Web app to connect with self taught dev community. |  | 0 | 🗑 Delete |  |  |
 | SnakeGame | 2023-02-13 | Public | No | No | JavaScript |  |  | 0 | 🗑 Delete |  | newer version is there |
