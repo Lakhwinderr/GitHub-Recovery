@@ -40,8 +40,9 @@ Cursor inspects repositories, drafts changes, and generates reports. You review 
 
 1. Review [docs/vision.md](docs/vision.md) for project goals.
 2. Review [docs/roadmap.md](docs/roadmap.md) for phases and milestones.
-3. Connect Cursor to the GitHub MCP for repository operations.
-4. Use `prompts/` for repeatable agent tasks and `reports/` for output.
+3. Review [docs/portfolio-improvement-workflow.md](docs/portfolio-improvement-workflow.md) for the Sprint 3 execution framework.
+4. Connect Cursor to the GitHub MCP for repository operations.
+5. Use `prompts/` for repeatable agent tasks and `reports/` for output.
 
 ## Reports
 
