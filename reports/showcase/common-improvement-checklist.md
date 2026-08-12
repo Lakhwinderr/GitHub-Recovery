@@ -24,12 +24,16 @@ Standard checklist that every portfolio repository should satisfy before being c
 - [ ] GIF demonstrations
 - [ ] Architecture diagrams (if applicable)
 
+
+
 ## Engineering Quality
 
 - [ ] Review code quality
 - [ ] Remove dead code
 - [ ] Improve comments
 - [ ] Improve commit history (if appropriate)
+
+
 
 ## Portfolio Review
 
@@ -39,9 +43,12 @@ Standard checklist that every portfolio repository should satisfy before being c
 
 ---
 
+
+
 ## Related Reports
 
 - [Portfolio Analysis](portfolio-analysis.md)
 - [Portfolio Roadmap](portfolio-roadmap.md)
 - [Portfolio Shortlist](portfolio-shortlist.md)
 - [Portfolio Summary](portfolio-summary.md)
+
